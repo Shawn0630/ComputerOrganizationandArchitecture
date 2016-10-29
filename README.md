@@ -1,4 +1,5 @@
 # ComputerOrganizationandArchitecture
+Computer Science 2208 - This course gives an understanding of what a modern computer can do. It covers the internal representation of various data types and focuses on the architectural components of computers (how these components are interconnected and the nature of the information flow between them). Assembly language is used to reinforce these issues.
 
 ## Concatenate, Remove Occurances, and Subroutines
 ### Concatenate
